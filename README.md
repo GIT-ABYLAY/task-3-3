@@ -1,5 +1,5 @@
-name: Abylai
-surename:Baishagirov
-gender:Male
+1. name: Abylai
+2. surename:Baishagirov
+3. gender:Male
 
-Новый точечный рисунок (2).bmp
+(https://img.the-steppe.com/images/news/6466-EFD3OZ6L.jpg)
